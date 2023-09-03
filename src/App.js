@@ -28,8 +28,6 @@ function App() {
 				<Route exact path="/experience" element={<Experience />} />
 				<Route exact path="/projects" element={<Projects />} />
 				<Route exact path="/contact" element={<Contact />} />
-				<Route exact path="/publications" element={<Publications />} />
-				<Route exact path="/opensource" element={<OpenSource />} />
 			</Routes>
 		</div>
 	);
