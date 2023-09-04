@@ -117,12 +117,11 @@ const Education = () => {
 															className="university-image"
 														/>
 														<div className="education-card-title">
-															Delhi Technological University
-															University
+															Sreenidhi Institute of Science and Technology
 														</div>
 														<div className="education-card-subtitle">
 															Bachelors in
-															Electronics and Communication
+															Computer Science Engineering
 														</div>
 														<div className="education-card-duration">
 															Aug 2017 - June 2021

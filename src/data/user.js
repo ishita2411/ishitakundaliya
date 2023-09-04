@@ -1,23 +1,23 @@
 const INFO = {
   main: {
-    title: "Avi Singhal",
-    name: "Avi Singhal",
-    email: "avisinghal6@gmail.com",
+    title: "Ishita Kundaliya",
+    name: "Ishita Kundaliya",
+    email: "ishitakundaliya986@gmail.com",
     logo: process.env.PUBLIC_URL + "/images/as.png",
   },
   homepage: {
-    detail: `I am an aspiring software/machine learning engineer with strong foundations in ML,DL and NLP, 
-		substantiated by practical projects and enriched by my industry experience. 
-		I am proficient in data structures and algorithms, and passionate about problem-solving. 
-		Additonally, I excel in MERN stack web development and am known for tackling intricate challenges
-		`,
-    detail2: `I strongly believe in 'Skills can be nurtured with opportunity, but an open mind, insatiable hunger for
-		 learning, and a tenacious attitude are the forge that shapes the truly exceptional.' `,
+    detail: `I am Ishita Kundaliya, an aspiring software developer/ Machine Learning Engineer. 
+	I possess a solid grounding in web application development (Frontend and backend), Machine Learning which is validated by my 
+	projects and industry experiences. I am well versed with Data Structures and Algorithms and receive joy in solving complicated 
+	problems. Currently, I am pursuing my Masters in Computer Science with a specialization in Machine Learning and Data Science to
+	 delve into data and the numerous things that can be done with it.`,
+    detail2: `I believe that to grow you constantly need to learn and any skill can be learnt upon giving time and deligence.
+	Apart from the technical aspect of my life, I love to dance, sketch and enjoy the nature.`,
   },
   socials: {
-    github: "https://github.com/avisinghal6",
-    linkedin: "https://www.linkedin.com/in/avi-singhal99",
-    leetcode: "https://leetcode.com/avisinghal6/",
+    github: "https://github.com/ishita2411",
+    linkedin: "https://www.linkedin.com/in/ishita-kundaliya/",
+    // leetcode: "https://leetcode.com/avisinghal6/",
   },
   about: {
     title: "A bit more about me!",
@@ -54,19 +54,14 @@ const INFO = {
   education: {
     title: "My Education History",
     description: `
-		I am currently pursuing a MS in Computer Science with specialization in Machine Learning at Rice University. 
-		I am expected to graduate in December 2023. Previously I attended Delhi Techological University in India, where I earned 
-		a Bachelor of Technology in Electronics and Communication. 
-		I have strong foundations in both the software and the hardware side. I have done numerous projects(details in projects section)
-		to gain hands on experience and to showcase my skills and knowledge.
-		`,
-    coursework1: `Software Engineering, Machine Learning, Deep Learning for Vision and Language, Machine Learning With Graphs
-		,Probabilistic Algorithms and Data Structures, Project Management, Graduate Design and Analysis of Algorithms,
-		Computer Architecture.
-		`,
-    coursework2: `Web Development, Pattern Recogntion, Embedded Systems, Algorithmic Toolbox, Data Structures, Programming
-		Fundamentals, Microprocessors and Interfacing, Control Systems.
-		`,
+		I am currently pursuing a Masters in Computer Science with specialization in Machine Learning and Data Science at Rice University. 
+		I am expected to graduate in December 2023. I have completed my undergrad in Computer Science Engineering at Sreenidhi 
+		Institute Of Science and Technology. I have worked in multiple projects which have helped me develop my technical and 
+		interpersonal skills.`,
+    coursework1: `Software Engineering Methodology, Web Development, Machine Learning, Deep Learning for Vision and Language, 
+	Information Retrieval, Design and Analysis of Algorithms, Tools and Models for Data Science, Project Management, Internet Of Things`,
+    coursework2: `Programming languages- Python, Java, C, C++; Data Structures and Algorithms, Object Oriented Programming, 
+	Theory of Computation, Operating Systems`,
   },
 
   experience: {

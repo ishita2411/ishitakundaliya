@@ -83,13 +83,13 @@ const Homepage = () => {
             </div>
           </div>
 
-          <div className="homepage-name">Avi Singhal</div>
+          <div className="homepage-name">Ishita Kundaliya</div>
 
           <div className="homepage-image-container">
             <div className="homepage-image-wrapper">
               <img
                 src={process.env.PUBLIC_URL + "/images/avi.png"}
-                alt="Avi Singhal"
+                alt="Ishita Kundaliya"
               />
             </div>
           </div>
@@ -97,9 +97,10 @@ const Homepage = () => {
 
         <div className="content-wrapper">
           <div className="homepage-intro">
-            Hi, I am <span className="homepage-first-letter">A</span>daptive{" "}
+            Hello<br></br>
+            {/* Hi, I am <span className="homepage-first-letter">A</span>daptive{" "}
             <span className="homepage-first-letter">V</span>ersatile{" "}
-            <span className="homepage-first-letter">I</span>nnovator.{" "}
+            <span className="homepage-first-letter">I</span>nnovator.{" "} */}
             {INFO.homepage.detail}
 			<br></br>
 			<br></br>
