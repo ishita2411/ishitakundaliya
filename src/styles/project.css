@@ -12,13 +12,14 @@
 }
 
 .project:hover {
-	background: #fafafa;
+	background: #d6d6d6;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
 
 .project:hover .project-title {
 	color:black;
+
 }
 .project:hover .project-description {
 	color:black;
@@ -42,7 +43,8 @@
 
 .project-title {
 	font-family: var(--secondary-font);
-	color: white;
+	/* color: white; */
+	color: black;
 	font-size: 16px;
 	padding-top: 15px;
 	margin-bottom: 1em;
@@ -50,13 +52,16 @@
 }
 
 .project-description {
-	color: white;
+	/* color: white; */
+	color: black;
+
 }
 
 .project-link {
 	display: flex;
 	align-items: center;
-	color: white;
+	/* color: white; */
+	color: black;
 	font-size: 12px;
 	padding-top: 20px;
 }

@@ -20,30 +20,22 @@ const INFO = {
     // leetcode: "https://leetcode.com/avisinghal6/",
   },
   about: {
-    title: "A bit more about me!",
+    title: "Here's a litte bit more about me!",
     subtitle: "MCS at Rice University",
     description: `
-			I am Avi Singhal, I am currently pursuing MS in Computer Science with a specialization in machine learning at Rice
-			University. I have undertaken extensive coursework related to the state-of-art technologies and have completed numerous
-			projects to put those skills at practical applications and thereby strengthening my skills. I have grown from a novice 
-			in this field to a professional in a relatively small span of time, I am now someone who can handle, complete and lead projects
-			independently in an efficient manner. I have strong foundations in data structures and algorithms, and enjoy solving
-			complex problems, I am proficient in java, python and c++. I prefer to work outside my comfort zone because thats when I feel I am 
-			learning the most. I have worked extensively on computer vision, NLP, DL and ML applications. I have experience 
-			developing models, frameworks and pipelines for production release. I also have experience working on the ML compiler. I gained 
-			industry experience in ML during my software/ML internship at Tetramem (more details in the experience section.).
-			Apart from the ML side, I also have experience developing web applications, and I enjoy back-end development primarily because
-			I like working on different technologies and deployment schemes. I have developed many web applications and also deployed them 
-			(more details in project section). I tend to follow good coding practices and write code that is easy to understand and
-			scale. I am passionate about optimizing the work flows and processes, I try to improve the current methods and even create
-			new ones to enhance productivity.
-
+			I am currently pursuing my masters in Computer Science with a specialization in Machine Learning and Data Science at Rice 
+			University. During my time here I have had the chance to take multiple courses that have enhanced my technical skills which 
+			have been tested by working on multiple projects and assignments during the course period. I love to code in Python and I am comfortable 
+			in coding in Java and C as well. I am well versed in Data Structures and Algorithms and enjoy challenges on Leetcode which helps 
+			in testing my coding abilities. I have experience in developing full stack applications. I had the opportunity to develop one during 
+			my internship at Hewlett Packard Enterprise. I also won the 'People's Choice Award' for the most liked and well 
+			presented project. I have also worked on various Machine Learning, Deep Learning, Natural Language Processing related projects wherein 
+			I have developed models and built pipelines to output a fully functional project. 
 		`,
-    description2: `I believe in order for someone to write truly efficient software, its necessary to understand the underlying hardware and its
-		limitations as well. I completed my undergrad in electronics and communication and hence possess the necessary hardware background
-		as well which enables to me to write efficient code for specific hardware when needed. I also worked for Texas Instruments
-		for a year after my undergrad before starting my Masters. Working at TI enabled me to work across teams and countries to 
-		deliver the product. It helped me improve my time management and collaboration skills. `,
+    description2: ` One of the reasons why I enjoy what I do is that I like the idea of power and self satisfaction I receive upon the successful
+	completion of a task. I believe that it is necessary to learn new skills to be an active part of the industry. Although I might not possess every 
+	skill out there, I am always eager to learn more. I like to challenge myself. I am confident and a great team player. 
+	`,
 
     description3: `I am now looking for opportunities where I can leverage my skills and deliver value to the company
 		and at the same time have a continuous growth by acquiring new skills. I believe I have the skills and the positive attitude required 

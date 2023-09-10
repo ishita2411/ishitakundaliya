@@ -74,19 +74,17 @@ const Experience = () => {
                               className="resume-work-image"
                             />
                             <div className="resume-work-title">
-                              Tetramem Inc.
+                              Hewlett Packard Enterprise
                             </div>
                             <div className="resume-work-subtitle">
-                              Software/ML Engineer Intern
+                              Software Engineer Intern
                             </div>
                             <div className="resume-work-duration">
-                              May 2023 - Dec 2023
+                              May 2023 - Aug 2023
                             </div>
                           </div>
                           <div className="resume-work-skills">
-                            <strong>Skills:</strong> Python, C++, Pytorch,
-                            Keras/Tensorflow, Hugging Face, ONNX, AWS, Docker,
-                            Microsoft NNI, Jupyter notebooks, Linux, Git
+                            <strong>Skills:</strong> Python, React.js, MongoDB, Linux, RedFish Client API, 
                           </div>
                           <div className="resume-work-details">
                             <ul className="resume-work-details-list">

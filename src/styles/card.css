@@ -1,9 +1,11 @@
 @import "./data/styles.css";
-
+/* #e4e4e7;
+	--secondary-color: #27272a */
 .card {
 	mix-blend-mode: normal;
 	border-radius: 20px;
-	outline: 2px solid #f4f4f5;
+	/* outline: 2px solid #f4f4f5; */
+	outline: 2px solid #27272a;
 }
 
 .card-container {
@@ -18,7 +20,8 @@
 
 .card-icon {
 	font-size: 25px;
-	color: white;
+	/* color: white; */
+	color: #27272a;
 }
 
 .hr {

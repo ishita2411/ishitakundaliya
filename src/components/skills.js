@@ -32,7 +32,7 @@ const Skills = () => {
 
 							{/* <div class="vl"></div> */}
 							<div className="skill-name">
-								Python, Java, C++, Javascript, HTML, CSS, MATLAB
+								Python, Java, C, C++, Javascript, HTML, CSS, PHP
 							</div>
 						</div>
                         <div className="skill">
@@ -43,7 +43,7 @@ const Skills = () => {
 								/>
 							</div>
 							<div className="skill-name">
-								ML,DL, NLP, computer vision, CNN, RNN, LSTM, RL, GNN
+								ML, DL, NLP, CNN, LSTM
 							</div>
 						</div>
 						<div className="skill">
@@ -54,7 +54,7 @@ const Skills = () => {
 								/>
 							</div>
 							<div className="skill-name">
-								React.js, Node.js, Redis, Express.js, Pytorch, Tensorflow, ONNX
+								React.js, Node.js, Express.js, Pytorch, Tensorflow, Flask, MERN stack, REST APIs, LINUX
 							</div>
 						</div>
 						<div className="skill">
@@ -65,7 +65,7 @@ const Skills = () => {
 								/>
 							</div>
 							<div className="skill-name">
-								AWS, Git
+								Git
 							</div>
 						</div>
 						<div className="skill">
@@ -75,7 +75,7 @@ const Skills = () => {
 									className="skill-icon"
 								/>
 							</div>
-							<div className="skill-name">SQL, MongoDB,Firebase </div>
+							<div className="skill-name">Relational Database, MongoDB, MySQL</div>
 						</div>
 					</div>
 				}

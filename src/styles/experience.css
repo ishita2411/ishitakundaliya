@@ -9,7 +9,7 @@
 .resume-logo {
 	display: flex;
 	position: fixed;
-	border: 1px solid white;
+	border: 1px solid black;
 	border-radius: 50%;
 	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
 	top: 4vh;
@@ -30,8 +30,8 @@
 	color: peachpuff;
 }
 
-.resume-download-button {
-}
+/* .resume-download-button {
+} */
 
 .resume-main-container {
 	display: flex;
@@ -58,7 +58,9 @@
 .resume-card {
 	mix-blend-mode: normal;
 	border-radius: 20px;
-	outline: 2px solid #f4f4f5;
+	/* outline: 2px solid #f4f4f5; */
+	outline: 2px solid black;
+
 }
 
 .resume-card-container {
@@ -73,7 +75,9 @@
 
 .resume-card-icon {
 	font-size: 25px;
-	color: white;
+	/* color: white; */
+	color: black;
+
 }
 
 .hr {
@@ -113,7 +117,9 @@
 	height: 30px;
 	width: 30px;
 	border-radius: 50%;
-	outline: 6px solid white;
+	/* outline: 6px solid white; */
+	outline: 6px solid black;
+
 	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.25);
 }
 
@@ -126,7 +132,9 @@
 }
 
 .resume-work-subtitle>p>a{
-	color:white;
+	/* color:white; */
+	color:black;
+
 }
 /* .resume-work-subtitle>p{
 	display:inline;
@@ -140,7 +148,9 @@
 	padding-left: 50px;
 }
 .resume-work-subtitle> a {
-	color: white;
+	/* color: white; */
+	color: black;
+
 }
 .resume-work-skills {
 	font-size: 12px;
@@ -154,7 +164,9 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	color:white;
+	/* color:white; */
+	color:black;
+
 	padding-top: -50px;
 	font-size: 12px;
 	margin-left: 50px;
@@ -186,7 +198,9 @@
 .resume-work-details {
 	margin-left: 20px; /* Adding left margin */
 	margin-bottom: 10px;
-	border: 0.1px solid #ffffff; /* Adding a subtle border */
+	/* border: 0.1px solid #ffffff;  */
+	/* border: 0.1px solid black;  */
+
 	/* Adding padding inside the box */
 	border-radius: 15px; /* Adding rounded corners for a smoother look */
 	transition: box-shadow 0.5s ease-in-out; /* Adding transition for smooth animation */
@@ -200,11 +214,13 @@
 .resume-work-details-list {
 	list-style-type: disc; /* Using disc bullets for unordered list */
 	padding-left: 30px; /* Adding padding for the list */
-    color:white;
+    color:black;
 }
 
 .resume-work-details-list>li>a {
-    color:white;
+    /* color:white; */
+    color:black;
+
 }
 @media (max-width: 1024px) {
 	.resume-title-text {

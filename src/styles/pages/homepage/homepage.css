@@ -24,7 +24,9 @@
 
 .homepage-name{
 	font-size: 100px;
-	color: white;
+	/* color: white; */
+	color: #27272a;
+	
 	width: auto;
 }
 .homepage-image-wrapper {
@@ -178,12 +180,14 @@
 .homepage-intro {
 	width:50%;
 	font-size: 25px;
-	color:white;
+	/* color:white; */
+	color:#27272a;
 }
 
 .homepage-first-letter {
 	font-size: 60px;
-	color: palegoldenrod
+	/* color: palegoldenrod */
+	color: palegoldenrod;
 }
 
 @media (max-width: 1024px) {

@@ -25,12 +25,6 @@ const Footer = () => {
 							<Link to="/projects">Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/publications">Publications</Link>
-						</li>
-						<li className="footer-nav-link-item">
-							<Link to="/opensource">Open Source</Link>
-						</li>
-						<li className="footer-nav-link-item">
 							<Link to="/contact">Contact</Link>
 						</li>
 					</ul>
@@ -38,7 +32,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Avi Singhal. All Rights Reserved.
+						© 2023 Ishita Kundaliya. All Rights Reserved.
 					</div>
 				</div>
 			</div>

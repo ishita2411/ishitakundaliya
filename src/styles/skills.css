@@ -16,7 +16,8 @@
 }
 
 .vl {
-	border-left: 1px solid gray;
+	/* border-left: 1px solid gray; */
+	border-left: 1px solid black;
 	height: 25px;
 	margin-right: 15px;
 }
@@ -37,7 +38,7 @@
 .skill-icon {
 	/* Add styles for the skill icon (font-awesome icon) here */
 	/* You can adjust the icon size, color, etc. */
-    color:white;
+    color:black;
 	font-size: 20px;
 	width: 30px;
 }

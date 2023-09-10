@@ -1,9 +1,24 @@
-:root {
+/* :root { */
 	/* ------- colors ------- */
-	--primary-color: #27272a;
+	/* --primary-color: #27272a;
 	--secondary-color: #e4e4e7;
 	--tertiary-color: #e4e4e7;
 	--quaternary-color: #e4e4e7;
+	--link-color: #14b8a6; */
+	/* ---------------------- */
+
+	/* ------- fonts ------- */
+	/* --primary-font: "Heebo", sans-serif;
+	--secondary-font: "Roboto", sans-serif; */
+	/* --------------------- */
+/* } */
+
+:root {
+	/* ------- colors ------- */
+	--primary-color: #e4e4e7;
+	--secondary-color: #27272a;
+	--tertiary-color: #27272a;
+	--quaternary-color: #27272a;
 	--link-color: #14b8a6;
 	/* ---------------------- */
 
