@@ -84,51 +84,28 @@ const Experience = () => {
                             </div>
                           </div>
                           <div className="resume-work-skills">
-                            <strong>Skills:</strong> Python, React.js, MongoDB, Linux, RedFish Client API, 
+                            <strong>Skills:</strong> Python, React.js, MongoDB, Linux, RedFish Client API, Git
                           </div>
                           <div className="resume-work-details">
                             <ul className="resume-work-details-list">
                               <li>
-                                Developed a neural architecture search (NAS) and
-                                post-training quantization framework for
-                                production release. Achieved{" "}
-                                <strong>~0.5%</strong> quantization loss &{" "}
-                                <strong>88%</strong> accuracy on TinyML models
-                                using diverse search spaces for{" "}
-                                <strong>mobile devices</strong> for CIFAR10 and
-                                other applications. Implemented one-shot,
-                                multi-trial NAS for edge devices, developed
-                                optimized ONNX graphs and introduced
-                                <strong>joint optimization</strong> of NAS and
-                                Hyperparameter optimization(HPO) using RL
-                                inspired by CVPR 23’s{" "}
-                                <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multi-Agent_Automated_Machine_Learning_CVPR_2023_paper.pdf">
-                                  MA2ML
-                                </a>
+                              Developed a full stack application which had multiple stages to it. Used redfishClient API which uses ILO to extract
+                              the various hardware present on the servers and add it to a MongoDB database using Python.
+                             
                               </li>
                               <li>
-                                Model development, research and implementation
-                                spanning computer vision, AI ISP and audio
-                                applications for edge devices.
+                              Created a cron job to refresh the database every night which will update as and when new servers are added.
                               </li>
                               <li>
-                                Added support for <strong>5+</strong> intricate
-                                ONNX operators with unit tests and simulation of
-                                noise to ML compiler to enhance model inference
-                                on AI accelerator and improve accuracy by at
-                                least
-                                <strong>~3%</strong>.
+                              Created a user interface in ReactJS which will be used to search for the hardware and view it.
                               </li>
                               <li>
-                                Building framework to support quantization and
-                                inference of transformer-based Models for edge
-                                devices starting with quantized{" "}
-                                <a href="https://arxiv.org/pdf/2206.01191.pdf">
-                                  EfficientFormer
-                                </a>
-                                , paving the path for LLM support on Tetramem AI
-                                accelerator.
+                              Developed a backend in Flask and was responsible for creating various REST APIs calls involving login, changing IP
+                              addresses for the cron job, searching in the database, etc.
                               </li>
+                              <li>This project help increase the overall efficiency by 80%</li>
+                              <li>Testing Nutanix + HPE servers to find faults in the hardware before production.</li>
+                              <li>Won the 'Peoples Choice Award' for the best presented project</li>
                             </ul>
                           </div>
 
@@ -141,38 +118,28 @@ const Experience = () => {
                               className="resume-work-image"
                             />
                             <div className="resume-work-title">
-                              Texas Instruments
+                              Cognizant
                             </div>
                             <div className="resume-work-subtitle">
-                              Test Engineer
+                              Programmer Analyst
                             </div>
                             <div className="resume-work-duration">
-                              July 2021 - July 2022
+                              July 2021 - August 2022
                             </div>
                           </div>
                           <div className="resume-work-skills">
-                            <strong>Skills:</strong> Python, C++, git
+                            <strong>Skills:</strong> Python, Natural Language Processing, Convolution Neural Networks, HTML, CSS, Javascript
                           </div>
 
                           <div className="resume-work-details">
                             <ul className="resume-work-details-list">
                               <li>
-                                Reviewed large C++ code base, designed scalable
-                                and efficient test program for production
-                                release. Resolved bugs, incorporated
-                                <strong>20+</strong> features for{" "}
-                                <strong>enhanced debugging</strong> to
-                                verification tool developed at TI, resulting in
-                                recognition as best user.
+                              Led a team of 5 to develop a “Missing Person Detection” web application using Python, Flask, Convolution Neural
+                              Networks aiming to identify any missing person through a live video feed or by uploading an individual’s picture.
                               </li>
                               <li>
-                                Developed a parasitic extraction tool with user
-                                interface using python scripts. The tool helped{" "}
-                                <strong>reduce</strong> test hardware redesign{" "}
-                                <strong>time, cost </strong> 
-                                by <strong>30%</strong> and better correlation
-                                of simulation output with tester results. Work
-                                published at TI conference.
+                              Spearheaded a team to design a “Sarcasm Detection” Sequential model using python language and Natural Language
+                              Processing. Computed accuracy for the sarcasm detection model was over 85%.
                               </li>
                             </ul>
                           </div>
